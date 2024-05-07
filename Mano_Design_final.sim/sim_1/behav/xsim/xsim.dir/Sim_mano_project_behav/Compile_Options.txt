@@ -1,0 +1,1 @@
+-wto "ddb40c4df38c466a940531392c9db400" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Sim_mano_project_behav" "xil_defaultlib.Sim_mano_project" "xil_defaultlib.glbl" -log "elaborate.log" 
